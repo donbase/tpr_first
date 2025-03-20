@@ -1,0 +1,8 @@
+name,price,gas,luggage,safe,comfort
+dirs,min,min,max,max,max
+weights,3,3,2,1,0
+Toyota Corolla,28000,7,485,4,3
+Honda Cr-v,30000,6,530,5,4
+Hyndai Tuscon,26000,7,460,4,2
+Kia Sportage,29000,6,520,4,5
+Subaru Forester,32000,6,560,5,3
